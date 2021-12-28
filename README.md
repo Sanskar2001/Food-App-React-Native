@@ -15,6 +15,8 @@ A react native app intented to replicate uber eats.User can browse local restaur
 
 - [Firebase](https://firebase.google.com/)
 
+- [Yelp API](https://fusion.yelp.com/)
+
 
 ## Features
 - Full online food ordering app.
